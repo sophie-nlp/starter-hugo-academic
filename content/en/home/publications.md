@@ -25,14 +25,14 @@ design:
     text_color_light: false
 ---
 ## 2023
-### Journal
+-Journal
 **Yang Zhao**, Jiajun Zhang, Chengqing Zong. 2023. **Transformer: A General Framework from Machine Translation to Others**. _Machine Intelligence Research_ 20, 514–538 (2023). https://doi.org/10.1007/s11633-022-1393-5.
 
 Lu Xiang, **Yang Zhao**, Junnan Zhu, Yu Zhou, Chengqing Zong. 2023. Zero-shot language extension for dialogue state tracking via pre-trained models and multi-auxiliary-tasks fine-tuning. _Knowledge-Based Systems _, Volume 259, 2023, 110015.
 
 Cong Ma, Xu Han, Linghui Wu, Yaping Zhang, **Yang Zhao**,Yu Zhou, and Chengqing Zong. 2023. Modal Contrastive Learning based End-to-End Text Image Machine Translation, _IEEE/ACM Transactions on Audio, Speech, and Language Processing_, doi: 10.1109/TASLP.2023.3324540.
 
-### Conference
+-Conference
 Cong Ma, Yaping Zhang, Mei Tu, **Yang Zhao**, Yu Zhou, and Chengqing Zong. 2023. **CCIM: Cross-modal Cross-lingual Interactive Image Translation**. In _Findings of the Association for Computational Linguistics: EMNLP 2023 (EMNLP Findings 2023)_, pages 4959–4965.
 
 Zixuan Ren, **Yang Zhao**, and Chengqing Zong. 2023. **Towards Informative Open-ended Text Generation with Dynamic Knowledge Triples**. In _Findings of the Association for Computational Linguistics: EMNLP 2023 (EMNLP Findings 2023)_, pages 3189–3203.
