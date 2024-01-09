@@ -25,7 +25,7 @@ design:
     text_color_light: false
 ---
 ## 2023
-Rongchuan Tang, **Yang Zhao**, Chengqing Zong, Yu Zhou (2023). **Multilingual Knowledge Graph Completion with Language-Sensitive Multi-Graph Attention**. In _Proceedings of the 61st Annual Meeting of the Association for Computational Linguistics (ACL 2023)_.
+Rongchuan Tang, **Yang Zhao**, Chengqing Zong, Yu Zhou (2023). **Multilingual Knowledge Graph Completion with Language-Sensitive Multi-Graph Attention**. In _Proceedings of the 61st Annual Meeting of the Association for Computational Linguistics (**ACL 2023**)_.
 
  Cong Ma, Yaping Zhang, Mei Tu, **Yang Zhao**, Yu Zhou, Chengqing Zong (2023). E2TIMT: Efficient and Effective Modal Adapter for Text Image Machine Translation. In _The 17th International Conference on Document Analysis and Recognition (ICDAR 2023)_.
  
