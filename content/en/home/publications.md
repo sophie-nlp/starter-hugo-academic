@@ -25,13 +25,13 @@ design:
     text_color_light: false
 ---
 ## 2023
-Rongchuan Tang, Yang Zhao, Chengqing Zong, Yu Zhou (2023). Multilingual Knowledge Graph Completion with Language-Sensitive Multi-Graph Attention. In _**Proceedings of the 61st Annual Meeting of the Association for Computational Linguistics (ACL 2023)**_.
+Rongchuan Tang, **Yang Zhao**, Chengqing Zong, Yu Zhou (2023). **Multilingual Knowledge Graph Completion with Language-Sensitive Multi-Graph Attention**. In _Proceedings of the 61st Annual Meeting of the Association for Computational Linguistics (ACL 2023)_.
 
- Cong Ma, Yaping Zhang, Mei Tu, Yang Zhao, Yu Zhou, Chengqing Zong (2023). E2TIMT: Efficient and Effective Modal Adapter for Text Image Machine Translation. In _**The 17th International Conference on Document Analysis and Recognition (ICDAR 2023)_**.
+ Cong Ma, Yaping Zhang, Mei Tu, **Yang Zhao**, Yu Zhou, Chengqing Zong (2023). E2TIMT: Efficient and Effective Modal Adapter for Text Image Machine Translation. In _The 17th International Conference on Document Analysis and Recognition (ICDAR 2023)_.
  
- Cong Ma, Yaping Zhang, Mei Tu,  **Yang Zhao**, Yu Zhou, Chengqing Zong (2023). Multi-Teacher Knowledge Distillation For Text Image Machine Translation. In _**The 17th International Conference on Document Analysis and Recognition (ICDAR 2023)_**.
+ Cong Ma, Yaping Zhang, Mei Tu,  **Yang Zhao**, Yu Zhou, Chengqing Zong (2023). Multi-Teacher Knowledge Distillation For Text Image Machine Translation. In _The 17th International Conference on Document Analysis and Recognition (ICDAR 2023)_.
  
-  **Yang Zhao**, Jiajun Zhang, Chengqing Zong (2022). Transformer: A General Framework from Machine Translation to Others. accepted by _**Machine Intelligence Research_**.
+  **Yang Zhao**, Jiajun Zhang, Chengqing Zong (2022). Transformer: A General Framework from Machine Translation to Others. accepted by _Machine Intelligence Research_.
 
  ## 2022
  **Yang Zhao**, Junnan Zhu, Lu Xiang, Jiajun Zhang, Yu Zhou, Feifei Zhai, Chengqing Zong (2022). Life-long Learning for Multilingual Neural Machine Translation with Knowledge Distillation. arXiv preprint arXiv:2212.02800.
