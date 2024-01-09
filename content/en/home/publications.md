@@ -1,41 +1,27 @@
 ---
-# An instance of the Pages widget.
+# An instance of the Blank widget.
 # Documentation: https://wowchemy.com/docs/page-builder/
-widget: collection
+widget: blank
 
 # This file represents a page section.
 headless: true
 
 # Order that this section appears on the page.
-weight: 30
+weight: 40
 
+# Section title
 title: Publications
+
+# Section subtitle
 subtitle: ''
 
-content:
-  # Filter on criteria
-  filters:
-    folders:
-      - publication
-    tag: ''
-    category: ''
-    publication_type: ''
-    author: ''
-    exclude_featured: false
-    exclude_future: false
-    exclude_past: false
-  # Choose how many pages you would like to display (0 = all pages)
-  count: 0
-  # Choose how many pages you would like to offset by
-  offset: 0
-  # Page order: descending (desc) or ascending (asc) date.
-  order: desc
+# Section design
 design:
-  # Choose a view for the listings:
-  view: citation
-  columns: '1'
+  # Use a 1-column layout
+  columns: "1"
+  # Use a dark navy background with light text.
+  background:
+    color: '#FFFFFF'
+    text_color_light: false
 ---
-
-<!-- {{% callout note %}}
-Quickly discover relevant content by [filtering publications](./publication/).
-{{% /callout %}} -->
+Journal Reviewer: IEEE/ACM TASLP, MIR.
