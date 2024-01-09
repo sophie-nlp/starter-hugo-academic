@@ -25,13 +25,19 @@ design:
     text_color_light: false
 ---
 ## 2023
-Rongchuan Tang, **Yang Zhao**, Chengqing Zong, Yu Zhou (2023). **Multilingual Knowledge Graph Completion with Language-Sensitive Multi-Graph Attention**. In _Proceedings of the 61st Annual Meeting of the Association for Computational Linguistics (**ACL 2023**)_.
+Cong Ma, Yaping Zhang, Mei Tu, **Yang Zhao**, Yu Zhou, and Chengqing Zong. 2023. **CCIM: Cross-modal Cross-lingual Interactive Image Translation**. In _Findings of the Association for Computational Linguistics: EMNLP 2023 (**EMNLP Findings 2023**)_, pages 4959–4965.
 
- Cong Ma, Yaping Zhang, Mei Tu, **Yang Zhao**, Yu Zhou, Chengqing Zong (2023). E2TIMT: Efficient and Effective Modal Adapter for Text Image Machine Translation. In _The 17th International Conference on Document Analysis and Recognition (ICDAR 2023)_.
+Zixuan Ren, **Yang Zhao**, and Chengqing Zong. 2023. **Towards Informative Open-ended Text Generation with Dynamic Knowledge Triples**. In _Findings of the Association for Computational Linguistics: EMNLP 2023 (**EMNLP Findings 2023**)_, pages 3189–3203.
+
+Zhiyang Zhang, Yaping Zhang, Yupu Liang, Lu Xiang, **Yang Zhao**, Yu Zhou, and Chengqing Zong. 2023. **LayoutDIT: Layout-Aware End-to-End Document Image Translation with Multi-Step Conductive Decoder**. In _Findings of the Association for Computational Linguistics: EMNLP 2023 (**EMNLP Findings 2023**)_, pages 10043–10053.
+
+Rongchuan Tang, **Yang Zhao**, Chengqing Zong, Yu Zhou. 2023. **Multilingual Knowledge Graph Completion with Language-Sensitive Multi-Graph Attention**. In _Proceedings of the 61st Annual Meeting of the Association for Computational Linguistics (**ACL 2023**)_.
+
+ Cong Ma, Yaping Zhang, Mei Tu, **Yang Zhao**, Yu Zhou, Chengqing Zong (2023). E2TIMT: Efficient and Effective Modal Adapter for Text Image Machine Translation. In _Proceedings of The 17th International Conference on Document Analysis and Recognition (**ICDAR 2023**)_.
  
- Cong Ma, Yaping Zhang, Mei Tu,  **Yang Zhao**, Yu Zhou, Chengqing Zong (2023). Multi-Teacher Knowledge Distillation For Text Image Machine Translation. In _The 17th International Conference on Document Analysis and Recognition (ICDAR 2023)_.
+ Cong Ma, Yaping Zhang, Mei Tu,  **Yang Zhao**, Yu Zhou, Chengqing Zong (2023). **Multi-Teacher Knowledge Distillation For Text Image Machine Translation**. In _Proceedings of The 17th International Conference on Document Analysis and Recognition (**ICDAR 2023**)_.
  
-  **Yang Zhao**, Jiajun Zhang, Chengqing Zong (2022). Transformer: A General Framework from Machine Translation to Others. accepted by _Machine Intelligence Research_.
+  **Yang Zhao**, Jiajun Zhang, Chengqing Zong (2022). **Transformer: A General Framework from Machine Translation to Others**. _Machine Intelligence Research_.
 
  ## 2022
  **Yang Zhao**, Junnan Zhu, Lu Xiang, Jiajun Zhang, Yu Zhou, Feifei Zhai, Chengqing Zong (2022). Life-long Learning for Multilingual Neural Machine Translation with Knowledge Distillation. arXiv preprint arXiv:2212.02800.
