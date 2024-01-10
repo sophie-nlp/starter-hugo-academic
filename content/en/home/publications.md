@@ -74,23 +74,23 @@ Jiajun Zhang, Long Zhou, **Yang Zhao**, Chengqing Zong. 2020. **Synchronous bidi
 Feng Wang, Juan Du, **Yang Zhao**, Tao Tang, Jianjun Shi. 2020. **A deep learning based data fusion method for degradation modeling and prognostics**. _IEEE Transactions on Reliability_. vol. 70, no. 2, pp. 775-789, June 2021, doi: 10.1109/TR.2020.3011500.
 
 #### Conference
-**Yang Zhao**, Jiajun Zhang, Yu Zhou, Chengqing Zong (2020). **Knowledge graphs enhanced neural machine translation**. In _Proceedings of the Twenty-Ninth International Conference on International Joint Conferences on Artificial Intelligence (IJCAI 2020)_. Article 559, 4039–4045.
+**Yang Zhao**, Jiajun Zhang, Yu Zhou, Chengqing Zong. 2020. **Knowledge graphs enhanced neural machine translation**. In _Proceedings of the Twenty-Ninth International Conference on International Joint Conferences on Artificial Intelligence (IJCAI 2020)_. Article 559, 4039–4045.
 
-**Yang Zhao**, Lu Xiang, Junnan Zhu, Jiajun Zhang, Yu Zhou, Chengqing Zong (2020). **Knowledge graph enhanced neural machine translation via multi-task learning on sub-entity granularity**. In _Proceedings of the 28th International Conference on Computational Linguistics (COLING 2020)_, pages 4495–4505, Barcelona, Spain (Online). International Committee on Computational Linguistics.
+**Yang Zhao**, Lu Xiang, Junnan Zhu, Jiajun Zhang, Yu Zhou, Chengqing Zong. 2020. **Knowledge graph enhanced neural machine translation via multi-task learning on sub-entity granularity**. In _Proceedings of the 28th International Conference on Computational Linguistics (COLING 2020)_, pages 4495–4505, Barcelona, Spain (Online). International Committee on Computational Linguistics.
 
-Xiaomian Kang, **Yang Zhao**, Jiajun Zhang, Chengqing Zong (2020). **Dynamic context selection for document-level neural machine translation via reinforcement learning**. In _Proceedings of the 2020 Conference on Empirical Methods in Natural Language Processing (EMNLP 2020)_, pages 2242–2254, Online. Association for Computational Linguistics.
+Xiaomian Kang, **Yang Zhao**, Jiajun Zhang, Chengqing Zong. 2020. **Dynamic context selection for document-level neural machine translation via reinforcement learning**. In _Proceedings of the 2020 Conference on Empirical Methods in Natural Language Processing (EMNLP 2020)_, pages 2242–2254, Online. Association for Computational Linguistics.
  
-Long Zhou, Jiajun Zhang, **Yang Zhao**, Chengqing Zong (2020). **Non-autoregressive neural machine translation with distortion model**. In _CCF International Conference on Natural Language Processing and Chinese Computing (NLPCC 2020)_. vol 12430. Springer. https://doi.org/10.1007/978-3-030-60450-9_32.
+Long Zhou, Jiajun Zhang, **Yang Zhao**, Chengqing Zong. 2020. **Non-autoregressive neural machine translation with distortion model**. In _CCF International Conference on Natural Language Processing and Chinese Computing (NLPCC 2020)_. vol 12430. Springer. https://doi.org/10.1007/978-3-030-60450-9_32.
  
-Qian Wang, Yuchen Liu, Cong Ma, Yu Lu, Yining Wang, Long Zhou, **Yang Zhao**, Jiajun Zhang, Chengqing Zong (2020).  CASIA’s System for IWSLT 2020 Open Domain Translation. In _Proceedings of the 17th International Conference on Spoken Language Translation_, pages 130–139, Online. Association for Computational Linguistics.
+Qian Wang, Yuchen Liu, Cong Ma, Yu Lu, Yining Wang, Long Zhou, **Yang Zhao**, Jiajun Zhang, Chengqing Zong. 2020.  CASIA’s System for IWSLT 2020 Open Domain Translation. In _Proceedings of the 17th International Conference on Spoken Language Translation_, pages 130–139, Online. Association for Computational Linguistics.
 
 ## **--2019**
  
-**Yang Zhao**, Jiajun Zhang, Chengqing Zong, Zhongjun He, Hua Wu (2019). **Addressing the under-translation problem from the entropy perspective**. In _Proceedings of the AAAI Conference on Artificial Intelligence (AAAI 2019)_, 33(01), 451-458. https://doi.org/10.1609/aaai.v33i01.3301451
+**Yang Zhao**, Jiajun Zhang, Chengqing Zong, Zhongjun He, Hua Wu. 2019. **Addressing the under-translation problem from the entropy perspective**. In _Proceedings of the AAAI Conference on Artificial Intelligence (AAAI 2019)_, 33(01), 451-458. https://doi.org/10.1609/aaai.v33i01.3301451
 
 ## 2018
 #### Journal
-Jiajun Zhang, **Yang Zhao**, Haoran Li, Chengqing Zong (2018). Attention with sparsity regularization for neural machine translation and summarization. _IEEE/ACM Transactions on Audio, Speech, and Language Processing_, vol. 27, no. 3, pp. 507-518, March 2019, doi: 10.1109/TASLP.2018.2883740.
+Jiajun Zhang, **Yang Zhao**, Haoran Li, Chengqing Zong. 2018. Attention with sparsity regularization for neural machine translation and summarization. _IEEE/ACM Transactions on Audio, Speech, and Language Processing_, vol. 27, no. 3, pp. 507-518, March 2019, doi: 10.1109/TASLP.2018.2883740.
 
 #### Conference 
 
@@ -100,8 +100,11 @@ Jiajun Zhang, **Yang Zhao**, Haoran Li, Chengqing Zong (2018). Attention with sp
 
 **Yang Zhao**, Jiajun Zhang and Chengqing Zong. 2018. **Exploiting pre-ordering for neural machine translation**. In _Proceedings of the eleventh international conference on language resources and evaluation (lrec 2018)_, pages 893–899.
 
-Yuchen Liu, Long Zhou, Yining Wang, **Yang Zhao**, Jiajun Zhang, Chengqing Zong (2018). **A comparable study on model averaging, ensembling and reranking in nmt**. In _CCF International Conference on Natural Language Processing and Chinese Computing (NLPCC 2018)_. vol 11109. Springer. https://doi.org/10.1007/978-3-319-99501-4_26.
+Yuchen Liu, Long Zhou, Yining Wang, **Yang Zhao**, Jiajun Zhang, and Chengqing Zong. 2018. **A comparable study on model averaging, ensembling and reranking in nmt**. In _CCF International Conference on Natural Language Processing and Chinese Computing (NLPCC 2018)_. vol 11109. Springer. https://doi.org/10.1007/978-3-319-99501-4_26.
 
 ## Before
+**Yang Zhao**, Yining Wang, Jiajun Zhang, and Chengqing Zong. 2017. **Cost-aware learning rate for neural machine translation**.
 
-**Yang Zhao**, Tian-hua Xu, Wang Hai-feng (2015). Text mining based fault diagnosis of vehicle on-board equipment for high speed railway. In 17th International IEEE Conference on Intelligent Transportation Systems (ITSC).
+Yining Wang, **Yang Zhao**, Jiajun Zhang, Chengqing Zong, and Zhengshan Xue. 2017. **Towards Neural Machine Translation with Partially Aligned Corpora**. In _Proceedings of the Eighth International Joint Conference on Natural Language Processing (IJCNLP 2017)_, pages 384–393, Taipei, Taiwan. Asian Federation of Natural Language Processing.
+
+**Yang Zhao**, Tian-hua Xu, Hai-feng Wang. 2015. **Text mining based fault diagnosis of vehicle on-board equipment for high speed railway**. In _Proceedings of the 17th International IEEE Conference on Intelligent Transportation Systems (ITSC 2015)_.
