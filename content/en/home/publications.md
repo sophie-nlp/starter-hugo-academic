@@ -7,13 +7,10 @@ widget: blank
 headless: true
 
 # Order that this section appears on the page.
-weight: 40
+weight: 20
 
 # Section title
 title: Publications
-
-# Section subtitle
-subtitle: ''
 
 # Section design
 design:
@@ -24,6 +21,9 @@ design:
     color: '#FFFFFF'
     text_color_light: false
 ---
+## **--2024**
+Cong Ma, Yaping Zhan, **Yang Zhao**, Yu Zhou, and Chengqing Zong. 2023. **Vector Quantization Knowledge Transfer For End-to-end text image machine translation**. Accepted by _2024 IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP 2024)_. 
+
 ## **--2023**
 ####  Journal
 **Yang Zhao**, Jiajun Zhang, Chengqing Zong. 2023. **Transformer: A General Framework from Machine Translation to Others**. _Machine Intelligence Research_ 20, 514–538 (2023). https://doi.org/10.1007/s11633-022-1393-5.
@@ -82,7 +82,7 @@ Xiaomian Kang, **Yang Zhao**, Jiajun Zhang, Chengqing Zong. 2020. **Dynamic cont
  
 Long Zhou, Jiajun Zhang, **Yang Zhao**, Chengqing Zong. 2020. **Non-autoregressive neural machine translation with distortion model**. In _CCF International Conference on Natural Language Processing and Chinese Computing (NLPCC 2020)_. vol 12430. Springer. https://doi.org/10.1007/978-3-030-60450-9_32.
  
-Qian Wang, Yuchen Liu, Cong Ma, Yu Lu, Yining Wang, Long Zhou, **Yang Zhao**, Jiajun Zhang, Chengqing Zong. 2020.  CASIA’s System for IWSLT 2020 Open Domain Translation. In _Proceedings of the 17th International Conference on Spoken Language Translation_, pages 130–139, Online. Association for Computational Linguistics.
+Qian Wang, Yuchen Liu, Cong Ma, Yu Lu, Yining Wang, Long Zhou, **Yang Zhao**, Jiajun Zhang, Chengqing Zong. 2020. **CASIA’s System for IWSLT 2020 Open Domain Translation**. In _Proceedings of the 17th International Conference on Spoken Language Translation_, pages 130–139, Online. Association for Computational Linguistics.
 
 ## **--2019**
  
@@ -90,7 +90,7 @@ Qian Wang, Yuchen Liu, Cong Ma, Yu Lu, Yining Wang, Long Zhou, **Yang Zhao**, Ji
 
 ## **--2018**
 #### Journal
-Jiajun Zhang, **Yang Zhao**, Haoran Li, Chengqing Zong. 2018. Attention with sparsity regularization for neural machine translation and summarization. _IEEE/ACM Transactions on Audio, Speech, and Language Processing_, vol. 27, no. 3, pp. 507-518, March 2019, doi: 10.1109/TASLP.2018.2883740.
+Jiajun Zhang, **Yang Zhao**, Haoran Li, Chengqing Zong. 2018. **Attention with sparsity regularization for neural machine translation and summarization**. _IEEE/ACM Transactions on Audio, Speech, and Language Processing_, vol. 27, no. 3, pp. 507-518, March 2019, doi: 10.1109/TASLP.2018.2883740.
 
 #### Conference 
 
