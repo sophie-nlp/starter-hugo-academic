@@ -1,7 +1,7 @@
 ---
-# An instance of the Pages widget.
+# An instance of the Blank widget.
 # Documentation: https://wowchemy.com/docs/page-builder/
-widget: collection
+widget: blank
 
 # This file represents a page section.
 headless: true
@@ -9,30 +9,22 @@ headless: true
 # Order that this section appears on the page.
 weight: 20
 
-title: Books
-subtitle:
+# Section title
+title: News
 
-content:
-  # Filter on criteria
-  filters:
-    folders:
-      - post
-    tag: ''
-    category: ''
-    publication_type: ''
-    author: ''
-    exclude_featured: false
-    exclude_future: false
-    exclude_past: false
-  # Choose how many pages you would like to display (0 = all pages)
-  count: 5
-  # Choose how many pages you would like to offset by
-  offset: 0
-  # Page order: descending (desc) or ascending (asc) date.
-  order: desc
-
+# Section design
 design:
-  # Choose a view for the listings:
-  view: compact
-  columns: '1'
+  # Use a 1-column layout
+  columns: "1"
+  # Use a dark navy background with light text.
+  background:
+    color: '#FFFFFF'
+    text_color_light: false
 ---
+I have one paper accepted by ICASSP 2024.
+
+I have three papers accepted by EMNLP findings 2023.
+
+Our paper win the Best paper award of CCMT 2023.
+
+I have one paper accepted by ACL 2023.
