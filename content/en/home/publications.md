@@ -88,7 +88,7 @@ Qian Wang, Yuchen Liu, Cong Ma, Yu Lu, Yining Wang, Long Zhou, **Yang Zhao**, Ji
  
 **Yang Zhao**, Jiajun Zhang, Chengqing Zong, Zhongjun He, Hua Wu. 2019. **Addressing the under-translation problem from the entropy perspective**. In _Proceedings of the AAAI Conference on Artificial Intelligence (AAAI 2019)_, 33(01), 451-458. https://doi.org/10.1609/aaai.v33i01.3301451
 
-## 2018
+## **--2018**
 #### Journal
 Jiajun Zhang, **Yang Zhao**, Haoran Li, Chengqing Zong. 2018. Attention with sparsity regularization for neural machine translation and summarization. _IEEE/ACM Transactions on Audio, Speech, and Language Processing_, vol. 27, no. 3, pp. 507-518, March 2019, doi: 10.1109/TASLP.2018.2883740.
 
@@ -102,8 +102,8 @@ Jiajun Zhang, **Yang Zhao**, Haoran Li, Chengqing Zong. 2018. Attention with spa
 
 Yuchen Liu, Long Zhou, Yining Wang, **Yang Zhao**, Jiajun Zhang, and Chengqing Zong. 2018. **A comparable study on model averaging, ensembling and reranking in nmt**. In _CCF International Conference on Natural Language Processing and Chinese Computing (NLPCC 2018)_. vol 11109. Springer. https://doi.org/10.1007/978-3-319-99501-4_26.
 
-## Before
-**Yang Zhao**, Yining Wang, Jiajun Zhang, and Chengqing Zong. 2017. **Cost-aware learning rate for neural machine translation**.
+## **--Before 2018**
+**Yang Zhao**, Yining Wang, Jiajun Zhang, and Chengqing Zong. 2017. **Cost-aware learning rate for neural machine translation**. _Chinese Computational Linguistics and Natural Language Processing Based on Naturally Annotated Big Data (CCL 2017)_, vol 10565. Springer. https://doi.org/10.1007/978-3-319-69005-6_8
 
 Yining Wang, **Yang Zhao**, Jiajun Zhang, Chengqing Zong, and Zhengshan Xue. 2017. **Towards Neural Machine Translation with Partially Aligned Corpora**. In _Proceedings of the Eighth International Joint Conference on Natural Language Processing (IJCNLP 2017)_, pages 384–393, Taipei, Taiwan. Asian Federation of Natural Language Processing.
 
