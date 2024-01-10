@@ -24,7 +24,7 @@ design:
     color: '#FFFFFF'
     text_color_light: false
 ---
-## **2023**
+## **-2023**
 ####  Journal
 **Yang Zhao**, Jiajun Zhang, Chengqing Zong. 2023. **Transformer: A General Framework from Machine Translation to Others**. _Machine Intelligence Research_ 20, 514–538 (2023). https://doi.org/10.1007/s11633-022-1393-5.
 
@@ -53,32 +53,34 @@ Zhiyang Zhang, Yaping Zhang, Lu Xiang, **Yang Zhao**, Yu Zhou. **A Novel Dataset
 Cong Ma, Yaping Zhang, Mei Tu, Xu Han, Linghui Wu, **Yang Zhao**, Yu Zhou. 2022. **Improving End-to-End Text Image Translation From the Auxiliary Text Translation Task**. In _Proceedings of the 26TH International Conference on Pattern Recognition (ICPR 2022)_.
  
 ## **2021**
-### Journal
-Lu Xiang, Junnan Zhu, **Yang Zhao**, Yu Zhou, Chengqing Zong (2021). Robust cross-lingual task-oriented dialogue. Transactions on Asian and Low-Resource Language Information Processing.
- 
-Jiajun Zhang, Long Zhou, **Yang Zhao**, Chengqing Zong (2021). Synchronous bidirectional inference for neural sequence generation. Artificial Intelligence.
+#### Journal
 
-Xiaomian Kang, **Yang Zhao**, Jiajun Zhang, Chengqing Zong (2021). Enhancing Lexical Translation Consistency for Document-Level Neural Machine Translation. ACM Transactions on Asian and Low-Resource Language Information Processing.
- 
-Mei Li, Lu Xiang, Xiaomian Kang, **Yang Zhao**, Yu Zhou, Chengqing Zong (2021). Medical Term and Status Generation From Chinese Clinical Dialogue With Multi-Granularity Transformer. IEEE/ACM Transactions on Audio, Speech, and Language Processing.
+Mei Li, Lu Xiang, Xiaomian Kang, **Yang Zhao**, Yu Zhou, Chengqing Zong (2021). **Medical Term and Status Generation From Chinese Clinical Dialogue With Multi-Granularity Transformer**. _IEEE/ACM Transactions on Audio, Speech, and Language Processing_, vol. 29, pp. 3362-3374, 2021, doi: 10.1109/TASLP.2021.3122301.
 
-### Conference
-**Yang Zhao**, Jiajun Zhang, Yu Zhou, Chengqing Zong (2021). Knowledge graphs enhanced neural machine translation. In Proceedings of the Twenty-Ninth International Conference on International Joint Conferences on Artificial Intelligence (IJCAI 2021).
-
-Hao He, Qian Wang, Zhipeng Yu, **Yang Zhao**, Jiajun Zhang, Chengqing Zong (2021). Synchronous interactive decoding for multilingual neural machine translation. In Proceedings of the AAAI Conference on Artificial Intelligence.
+Lu Xiang, Junnan Zhu, **Yang Zhao**, Yu Zhou, Chengqing Zong (2021). **Robust cross-lingual task-oriented dialogue**. _ACM Transactions on Asian and Low-Resource Language Information Processing_, 20, 6, Article 93 (November 2021), 24 pages. https://doi.org/10.1145/3457571
  
-Lu Xiang, **Yang Zhao**, Junnan Zhu, Yu Zhou, Chengqing Zong (2021). Zero-Shot Deployment for Cross-Lingual Dialogue System. In CCF International Conference on Natural Language Processing and Chinese Computing.
+Xiaomian Kang, **Yang Zhao**, Jiajun Zhang, Chengqing Zong (2021). **Enhancing Lexical Translation Consistency for Document-Level Neural Machine Translation**. _ACM Transactions on Asian and Low-Resource Language Information Processing_, 21, 3, Article 59 (May 2022), 21 pages. https://doi.org/10.1145/3485469.
+ 
+#### Conference
+
+Hao He, Qian Wang, Zhipeng Yu, **Yang Zhao**, Jiajun Zhang, Chengqing Zong (2021). **Synchronous interactive decoding for multilingual neural machine translation**. In _Proceedings of the AAAI Conference on Artificial Intelligence (AAAA 2021)_, 35(14), 12981-12988. https://doi.org/10.1609/aaai.v35i14.17535
+ 
+Lu Xiang, **Yang Zhao**, Junnan Zhu, Yu Zhou, Chengqing Zong (2021). **Zero-Shot Deployment for Cross-Lingual Dialogue System**. In _CCF International Conference on Natural Language Processing and Chinese Computing (NLPCC 2021)_ . vol 13029. Springer. https://doi.org/10.1007/978-3-030-88483-3_15. 
  
 ## **2020**
-### Journal
-Feng Wang, Juan Du, **Yang Zhao**, Tao Tang, Jianjun Shi (2020). A deep learning based data fusion method for degradation modeling and prognostics. IEEE Transactions on Reliability.
+#### Journal
+Jiajun Zhang, Long Zhou, **Yang Zhao**, Chengqing Zong. 2020. **Synchronous bidirectional inference for neural sequence generation**. _Artificial Intelligence_, Volume 281, 2020, 103234, ISSN 0004-3702, https://doi.org/10.1016/j.artint.2020.103234.
 
-### Conference
-**Yang Zhao**, Lu Xiang, Junnan Zhu, Jiajun Zhang, Yu Zhou, Chengqing Zong (2020). Knowledge graph enhanced neural machine translation via multi-task learning on sub-entity granularity. In Proceedings of the 28th International Conference on Computational Linguistics (COLING 2020).
+Feng Wang, Juan Du, **Yang Zhao**, Tao Tang, Jianjun Shi. 2020. **A deep learning based data fusion method for degradation modeling and prognostics**. _IEEE Transactions on Reliability_. vol. 70, no. 2, pp. 775-789, June 2021, doi: 10.1109/TR.2020.3011500.
 
-Xiaomian Kang, **Yang Zhao**, Jiajun Zhang, Chengqing Zong (2020). Dynamic context selection for document-level neural machine translation via reinforcement learning. In Proceedings of the 2020 Conference on Empirical Methods in Natural Language Processing (EMNLP 2020).
+#### Conference
+**Yang Zhao**, Jiajun Zhang, Yu Zhou, Chengqing Zong (2020). **Knowledge graphs enhanced neural machine translation**. In _Proceedings of the Twenty-Ninth International Conference on International Joint Conferences on Artificial Intelligence (IJCAI 2020)_. Article 559, 4039–4045.
+
+**Yang Zhao**, Lu Xiang, Junnan Zhu, Jiajun Zhang, Yu Zhou, Chengqing Zong (2020). **Knowledge graph enhanced neural machine translation via multi-task learning on sub-entity granularity**. In Proceedings of the 28th International Conference on Computational Linguistics (COLING 2020).
+
+Xiaomian Kang, **Yang Zhao**, Jiajun Zhang, Chengqing Zong (2020). **Dynamic context selection for document-level neural machine translation via reinforcement learning**. In Proceedings of the 2020 Conference on Empirical Methods in Natural Language Processing (EMNLP 2020).
  
-Long Zhou, Jiajun Zhang, **Yang Zhao**, Chengqing Zong (2020). Non-autoregressive neural machine translation with distortion model. In CCF International Conference on Natural Language Processing and Chinese Computing.
+Long Zhou, Jiajun Zhang, **Yang Zhao**, Chengqing Zong (2020). **Non-autoregressive neural machine translation with distortion model**. In CCF International Conference on Natural Language Processing and Chinese Computing.
  
 Qian Wang, Yuchen Liu, Cong Ma, Yu Lu, Yining Wang, Long Zhou, **Yang Zhao**, Jiajun Zhang, Chengqing Zong (2020). CASIA System for IWSLT 2020 Open Domain Translation. In Proceedings of the 17th International Conference on Spoken Language Translation.
 
