@@ -28,7 +28,7 @@ design:
 ### Journal
 **Yang Zhao**, Jiajun Zhang, Chengqing Zong. 2023. **Transformer: A General Framework from Machine Translation to Others**. _Machine Intelligence Research_ 20, 514–538 (2023). https://doi.org/10.1007/s11633-022-1393-5.
 
-Lu Xiang, **Yang Zhao**, Junnan Zhu, Yu Zhou, Chengqing Zong. 2023. **Zero-shot language extension for dialogue state tracking via pre-trained models and multi-auxiliary-tasks fine-tuning**. _Knowledge-Based Systems_, Volume 259, 2023, 110015.{% staticref "2020IJCAI-YangZhao.pdf" %}PDF{% /staticref %}
+Lu Xiang, **Yang Zhao**, Junnan Zhu, Yu Zhou, Chengqing Zong. 2023. **Zero-shot language extension for dialogue state tracking via pre-trained models and multi-auxiliary-tasks fine-tuning**. _Knowledge-Based Systems_, Volume 259, 2023, 110015.{{% staticref "2020IJCAI-YangZhao.pdf" %}}PDF{{% /staticref %}}
 
 Cong Ma, Xu Han, Linghui Wu, Yaping Zhang, **Yang Zhao**, Yu Zhou, and Chengqing Zong. 2023. Modal Contrastive Learning based End-to-End Text Image Machine Translation, _IEEE/ACM Transactions on Audio, Speech, and Language Processing_, doi: 10.1109/TASLP.2023.3324540.
 
