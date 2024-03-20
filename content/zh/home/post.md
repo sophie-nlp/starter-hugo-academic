@@ -21,6 +21,8 @@ design:
     color: '#FFFFFF'
     text_color_light: false
 ---
+Our Chinese book 《自然语言处理基础与大模型-案例与实践》(The Fundamentals of Natural Language Processing and Larg Models: Cases and Practices) has been published.
+
 I have one paper accepted by NAACL 2024.
 
 I have one paper accepted by COLING 2024.
