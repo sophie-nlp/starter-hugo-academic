@@ -22,7 +22,7 @@ design:
     text_color_light: false
 ---
 ## **--2024**
-Cong Ma, Yaping Zhan, **Yang Zhao**, Yu Zhou, and Chengqing Zong. 2023. **Vector Quantization Knowledge Transfer For End-to-end text image machine translation**. Accepted by _2024 IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP 2024)_. 
+Cong Ma, Yaping Zhang, **Yang Zhao**, Yu Zhou, and Chengqing Zong. 2023. **Vector Quantization Knowledge Transfer For End-to-end text image machine translation**. Accepted by _2024 IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP 2024)_. 
 
 Yupu Liang, Yaping Zhang, Cong Ma, Zhiyang Zhang, **Yang Zhao**, Lu Xiang, Chengqing Zong, Yu Zhou. **Document Image Machine Translation with
 Dynamic Multi-pre-trained Models Assembling**. Accepted by _The 2024 Annual Conference of the North American Chapter of the Association for Computational Linguistics (NAACL 2024)_. Mexico City, Mexico. June 16-21, 2024.
