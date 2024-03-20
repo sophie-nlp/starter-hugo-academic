@@ -53,6 +53,8 @@ Cong Ma, Yaping Zhang, Mei Tu,  **Yang Zhao**, Yu Zhou, Chengqing Zong (2023). *
 Zhiyang Zhang, Yaping Zhang, Lu Xiang, **Yang Zhao**, Yu Zhou. **A Novel Dataset and Benchmark Analysis on Document Image Translation**. : In _Proceedings of the 19th China Conference on Machine Translation (CCMT 2023) (**Best paper award**)_.
 
 ## **--2022**
+Xiaomian Kang, **Yang Zhao**, Jiajun Zhang, Chengqing Zong (2022). **Enhancing Lexical Translation Consistency for Document-Level Neural Machine Translation**. _ACM Transactions on Asian and Low-Resource Language Information Processing_, 21, 3, Article 59 (May 2022), 21 pages. https://doi.org/10.1145/3485469.
+
 **Yang Zhao**, Junnan Zhu, Lu Xiang, Jiajun Zhang, Yu Zhou, Feifei Zhai, Chengqing Zong. 2022. **Life-long Learning for Multilingual Neural Machine Translation with Knowledge Distillation**. _arXiv preprint arXiv:2212.02800_.
  
 Cong Ma, Yaping Zhang, Mei Tu, Xu Han, Linghui Wu, **Yang Zhao**, Yu Zhou. 2022. **Improving End-to-End Text Image Translation From the Auxiliary Text Translation Task**. In _Proceedings of the 26TH International Conference on Pattern Recognition (ICPR 2022)_.
@@ -64,8 +66,7 @@ Mei Li, Lu Xiang, Xiaomian Kang, **Yang Zhao**, Yu Zhou, Chengqing Zong (2021). 
 
 Lu Xiang, Junnan Zhu, **Yang Zhao**, Yu Zhou, Chengqing Zong (2021). **Robust cross-lingual task-oriented dialogue**. _ACM Transactions on Asian and Low-Resource Language Information Processing_, 20, 6, Article 93 (November 2021), 24 pages. https://doi.org/10.1145/3457571
  
-Xiaomian Kang, **Yang Zhao**, Jiajun Zhang, Chengqing Zong (2021). **Enhancing Lexical Translation Consistency for Document-Level Neural Machine Translation**. _ACM Transactions on Asian and Low-Resource Language Information Processing_, 21, 3, Article 59 (May 2022), 21 pages. https://doi.org/10.1145/3485469.
- 
+
 #### Conference
 
 Hao He, Qian Wang, Zhipeng Yu, **Yang Zhao**, Jiajun Zhang, Chengqing Zong (2021). **Synchronous interactive decoding for multilingual neural machine translation**. In _Proceedings of the AAAI Conference on Artificial Intelligence (AAAA 2021)_, 35(14), 12981-12988. https://doi.org/10.1609/aaai.v35i14.17535
