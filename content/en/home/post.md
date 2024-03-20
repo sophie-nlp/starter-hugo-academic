@@ -21,6 +21,10 @@ design:
     color: '#FFFFFF'
     text_color_light: false
 ---
+I have one paper accepted by NAACL 2024.
+
+I have one paper accepted by COLING 2024.
+
 I have one paper accepted by ICASSP 2024.
 
 I have three papers accepted by EMNLP findings 2023.
