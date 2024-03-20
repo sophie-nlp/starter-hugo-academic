@@ -54,6 +54,8 @@ Zhiyang Zhang, Yaping Zhang, Lu Xiang, **Yang Zhao**, Yu Zhou. **A Novel Dataset
 
 ## **--2022**
 **Yang Zhao**, Junnan Zhu, Lu Xiang, Jiajun Zhang, Yu Zhou, Feifei Zhai, Chengqing Zong. 2022. **Life-long Learning for Multilingual Neural Machine Translation with Knowledge Distillation**. _arXiv preprint arXiv:2212.02800_.
+
+Xiaomian Kang, **Yang Zhao**, Jiajun Zhang, Chengqing Zong (2022). **Enhancing Lexical Translation Consistency for Document-Level Neural Machine Translation**. _ACM Transactions on Asian and Low-Resource Language Information Processing_, 21, 3, Article 59 (May 2022), 21 pages. https://doi.org/10.1145/3485469.
  
 Cong Ma, Yaping Zhang, Mei Tu, Xu Han, Linghui Wu, **Yang Zhao**, Yu Zhou. 2022. **Improving End-to-End Text Image Translation From the Auxiliary Text Translation Task**. In _Proceedings of the 26TH International Conference on Pattern Recognition (ICPR 2022)_.
  
@@ -63,8 +65,6 @@ Cong Ma, Yaping Zhang, Mei Tu, Xu Han, Linghui Wu, **Yang Zhao**, Yu Zhou. 2022.
 Mei Li, Lu Xiang, Xiaomian Kang, **Yang Zhao**, Yu Zhou, Chengqing Zong (2021). **Medical Term and Status Generation From Chinese Clinical Dialogue With Multi-Granularity Transformer**. _IEEE/ACM Transactions on Audio, Speech, and Language Processing_, vol. 29, pp. 3362-3374, 2021, doi: 10.1109/TASLP.2021.3122301.
 
 Lu Xiang, Junnan Zhu, **Yang Zhao**, Yu Zhou, Chengqing Zong (2021). **Robust cross-lingual task-oriented dialogue**. _ACM Transactions on Asian and Low-Resource Language Information Processing_, 20, 6, Article 93 (November 2021), 24 pages. https://doi.org/10.1145/3457571
- 
-Xiaomian Kang, **Yang Zhao**, Jiajun Zhang, Chengqing Zong (2021). **Enhancing Lexical Translation Consistency for Document-Level Neural Machine Translation**. _ACM Transactions on Asian and Low-Resource Language Information Processing_, 21, 3, Article 59 (May 2022), 21 pages. https://doi.org/10.1145/3485469.
  
 #### Conference
 
