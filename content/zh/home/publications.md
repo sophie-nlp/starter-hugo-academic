@@ -21,6 +21,12 @@ design:
     color: '#FFFFFF'
     text_color_light: false
 ---
+## **专著、译著**
+宗成庆、**赵阳**、飞桨教材编写组，自然语言处理基础与大模型：案例与实践，清华大学出版社，2024.1. ISBN 978-7-302-65155-0
+
+张家俊，**赵阳**，宗成庆(译)，神经机器翻译，(原著：Philipp Koehn, Neural Machine Translation), 机械工业出版社, 2022.3
+
+## **论文**
 ## **--2025**
 Donglei Yu, **Yang Zhao**, Jie Zhu, Yangyifan Xu, Yu Zhou, Chengqing Zong. 2025. **SimulPL: Aligning Human Preferences in Simultaneous Machine Translation**. accepted by _The Thirteenth International Conference on Learning Representations (ICLR 2025)_
 
