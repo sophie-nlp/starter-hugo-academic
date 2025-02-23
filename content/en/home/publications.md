@@ -21,23 +21,42 @@ design:
     color: '#FFFFFF'
     text_color_light: false
 ---
+## **专著、译著**
+宗成庆、**赵阳**、飞桨教材编写组，自然语言处理基础与大模型：案例与实践，清华大学出版社，2024.1. ISBN 978-7-302-65155-0
+
+张家俊，**赵阳**，宗成庆(译)，神经机器翻译，(原著：Philipp Koehn, Neural Machine Translation), 机械工业出版社, 2022.3
+
+## **论文**
+## **--2025**
+Donglei Yu, **Yang Zhao**, Jie Zhu, Yangyifan Xu, Yu Zhou, Chengqing Zong. 2025. **SimulPL: Aligning Human Preferences in Simultaneous Machine Translation**. accepted by _The Thirteenth International Conference on Learning Representations (ICLR 2025)_
+
+Zhiyang Zhang, Yaping Zhang, Yupu Liang, Cong Ma, Lu Xiang, **Yang Zhao**, Yu Zhou, Chengqing Zong. 2025. **Understand Layout and Translate Text: Unified Feature-Conductive End-to-End Document Image Translation**. accepted by _IEEE Transactions on Pattern Analysis and Machine Intelligence_
+
+Boyu Guan, Yining Zhang, **Yang Zhao**, and Chengqing Zong. 2025. **TriFine: A Large-Scale Dataset of Vision-Audio-Subtitle for Tri-Modal Machine Translation and Benchmark with Fine-Grained Annotated Tags**. _In Proceedings of the 31st International Conference on Computational Linguistics_, pages 8215–8231, Abu Dhabi, UAE. Association for Computational Linguistics.
+
+Zhiyang Zhang, Yaping Zhang, Yupu Liang, Lu Xiang, **Yang Zhao**, Yu Zhou, and Chengqing Zong. 2025. **From Chaotic OCR Words to Coherent Document: A Fine-to-Coarse Zoom-Out Network for Complex-Layout Document Image Translation**. _In Proceedings of the 31st International Conference on Computational Linguistics_, pages 10877–10890, Abu Dhabi, UAE. Association for Computational Linguistics.
+
 ## **--2024**
-Cong Ma, Yaping Zhang, **Yang Zhao**, Yu Zhou, and Chengqing Zong. 2023. **Vector Quantization Knowledge Transfer For End-to-end text image machine translation**. Accepted by _2024 IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP 2024)_. 
+**Yang Zhao**, Xiaomian Kang, Yaping Zhang, Jiajun Zhang, Yu Zhou, and Chengqing Zong. 2024. **Knowledge Graph Guided Neural Machine Translation with Dynamic Reinforce-selected Triples**. _ACM Transactions on Asian and Low-Resource Language Information Processing_. 23, 12, Article 163 (December 2024), 21 pages. https://doi.org/10.1145/3696664
+
+Cong Ma, Yaping Zhang, **Yang Zhao**, Yu Zhou, and Chengqing Zong. 2023. **Vector Quantization Knowledge Transfer For End-to-end text image machine translation**.  _2024 IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP 2024)_. 
 
 Yupu Liang, Yaping Zhang, Cong Ma, Zhiyang Zhang, **Yang Zhao**, Lu Xiang, Chengqing Zong, Yu Zhou. **Document Image Machine Translation with
-Dynamic Multi-pre-trained Models Assembling**. Accepted by _The 2024 Annual Conference of the North American Chapter of the Association for Computational Linguistics (NAACL 2024)_. Mexico City, Mexico. June 16-21, 2024.
+Dynamic Multi-pre-trained Models Assembling**. _The 2024 Annual Conference of the North American Chapter of the Association for Computational Linguistics (NAACL 2024)_. Mexico City, Mexico. June 16-21, 2024.
 
-Cong Ma, Yaping Zhang, Zhiyang Zhang, Yupu Liang, **Yang Zhao**, Yu Zhou, Chengqing Zong. **Born a BabNet with Hierarchical Parental Supervision for End-to-End Text Image Machine Translation**. Accepted by _The 2024 Joint International Conference on Computational Linguistics, Language Resources and Evaluation (LREC-COLING 2024)_. Torino, Italia. May 20-25, 2024.
+Cong Ma, Yaping Zhang, Zhiyang Zhang, Yupu Liang, **Yang Zhao**, Yu Zhou, Chengqing Zong. **Born a BabNet with Hierarchical Parental Supervision for End-to-End Text Image Machine Translation**. _The 2024 Joint International Conference on Computational Linguistics, Language Resources and Evaluation (LREC-COLING 2024)_. Torino, Italia. May 20-25, 2024.
+
+Liucheng Pang, Yaping Zhang, Cong Ma, **Yang Zhao**, Yu Zhou, Chengqing Zong. 2024. **TableRocket: An Efficient and Effective Framework for Table Reconstruction**. _Chinese Conference on Pattern Recognition and Computer Vision (PRCV)_ 348-362.
+
+Junhong Wu, **Yang Zhao**, Yangyifan Xu, Bing Liu, Chengqing Zong. **Boosting LLM Translation Skills without General Ability Loss via Rationale Distillation**. _arXiv preprint arXiv:2410.13944_
 
 ## **--2023**
-####  Journal
 **Yang Zhao**, Jiajun Zhang, Chengqing Zong. 2023. **Transformer: A General Framework from Machine Translation to Others**. _Machine Intelligence Research_ 20, 514–538 (2023). https://doi.org/10.1007/s11633-022-1393-5.
 
 Lu Xiang, **Yang Zhao**, Junnan Zhu, Yu Zhou, Chengqing Zong. 2023. **Zero-shot language extension for dialogue state tracking via pre-trained models and multi-auxiliary-tasks fine-tuning**. _Knowledge-Based Systems_, Volume 259, 2023, 110015.
 
 Cong Ma, Xu Han, Linghui Wu, Yaping Zhang, **Yang Zhao**, Yu Zhou, and Chengqing Zong. 2023. **Modal Contrastive Learning based End-to-End Text Image Machine Translation**. _IEEE/ACM Transactions on Audio, Speech, and Language Processing_, doi: 10.1109/TASLP.2023.3324540.
 
-#### Conference
 Cong Ma, Yaping Zhang, Mei Tu, **Yang Zhao**, Yu Zhou, and Chengqing Zong. 2023. **CCIM: Cross-modal Cross-lingual Interactive Image Translation**. In _Findings of the Association for Computational Linguistics: EMNLP 2023 (EMNLP Findings 2023)_, pages 4959–4965.
 
 Zixuan Ren, **Yang Zhao**, and Chengqing Zong. 2023. **Towards Informative Open-ended Text Generation with Dynamic Knowledge Triples**. In _Findings of the Association for Computational Linguistics: EMNLP 2023 (EMNLP Findings 2023)_, pages 3189–3203.
@@ -53,32 +72,27 @@ Cong Ma, Yaping Zhang, Mei Tu,  **Yang Zhao**, Yu Zhou, Chengqing Zong (2023). *
 Zhiyang Zhang, Yaping Zhang, Lu Xiang, **Yang Zhao**, Yu Zhou. **A Novel Dataset and Benchmark Analysis on Document Image Translation**. : In _Proceedings of the 19th China Conference on Machine Translation (CCMT 2023) (**Best paper award**)_.
 
 ## **--2022**
-**Yang Zhao**, Junnan Zhu, Lu Xiang, Jiajun Zhang, Yu Zhou, Feifei Zhai, Chengqing Zong. 2022. **Life-long Learning for Multilingual Neural Machine Translation with Knowledge Distillation**. _arXiv preprint arXiv:2212.02800_.
-
 Xiaomian Kang, **Yang Zhao**, Jiajun Zhang, Chengqing Zong (2022). **Enhancing Lexical Translation Consistency for Document-Level Neural Machine Translation**. _ACM Transactions on Asian and Low-Resource Language Information Processing_, 21, 3, Article 59 (May 2022), 21 pages. https://doi.org/10.1145/3485469.
+
+**Yang Zhao**, Junnan Zhu, Lu Xiang, Jiajun Zhang, Yu Zhou, Feifei Zhai, Chengqing Zong. 2022. **Life-long Learning for Multilingual Neural Machine Translation with Knowledge Distillation**. _arXiv preprint arXiv:2212.02800_.
  
 Cong Ma, Yaping Zhang, Mei Tu, Xu Han, Linghui Wu, **Yang Zhao**, Yu Zhou. 2022. **Improving End-to-End Text Image Translation From the Auxiliary Text Translation Task**. In _Proceedings of the 26TH International Conference on Pattern Recognition (ICPR 2022)_.
  
 ## **--2021**
-#### Journal
-
 Mei Li, Lu Xiang, Xiaomian Kang, **Yang Zhao**, Yu Zhou, Chengqing Zong (2021). **Medical Term and Status Generation From Chinese Clinical Dialogue With Multi-Granularity Transformer**. _IEEE/ACM Transactions on Audio, Speech, and Language Processing_, vol. 29, pp. 3362-3374, 2021, doi: 10.1109/TASLP.2021.3122301.
 
 Lu Xiang, Junnan Zhu, **Yang Zhao**, Yu Zhou, Chengqing Zong (2021). **Robust cross-lingual task-oriented dialogue**. _ACM Transactions on Asian and Low-Resource Language Information Processing_, 20, 6, Article 93 (November 2021), 24 pages. https://doi.org/10.1145/3457571
  
-#### Conference
-
 Hao He, Qian Wang, Zhipeng Yu, **Yang Zhao**, Jiajun Zhang, Chengqing Zong (2021). **Synchronous interactive decoding for multilingual neural machine translation**. In _Proceedings of the AAAI Conference on Artificial Intelligence (AAAA 2021)_, 35(14), 12981-12988. https://doi.org/10.1609/aaai.v35i14.17535
  
 Lu Xiang, **Yang Zhao**, Junnan Zhu, Yu Zhou, Chengqing Zong (2021). **Zero-Shot Deployment for Cross-Lingual Dialogue System**. In _CCF International Conference on Natural Language Processing and Chinese Computing (NLPCC 2021)_ . vol 13029. Springer. https://doi.org/10.1007/978-3-030-88483-3_15. 
  
 ## **--2020**
-#### Journal
+
 Jiajun Zhang, Long Zhou, **Yang Zhao**, Chengqing Zong. 2020. **Synchronous bidirectional inference for neural sequence generation**. _Artificial Intelligence_, Volume 281, 2020, 103234, ISSN 0004-3702, https://doi.org/10.1016/j.artint.2020.103234.
 
 Feng Wang, Juan Du, **Yang Zhao**, Tao Tang, Jianjun Shi. 2020. **A deep learning based data fusion method for degradation modeling and prognostics**. _IEEE Transactions on Reliability_. vol. 70, no. 2, pp. 775-789, June 2021, doi: 10.1109/TR.2020.3011500.
 
-#### Conference
 **Yang Zhao**, Jiajun Zhang, Yu Zhou, Chengqing Zong. 2020. **Knowledge graphs enhanced neural machine translation**. In _Proceedings of the Twenty-Ninth International Conference on International Joint Conferences on Artificial Intelligence (IJCAI 2020)_. Article 559, 4039–4045.
 
 **Yang Zhao**, Lu Xiang, Junnan Zhu, Jiajun Zhang, Yu Zhou, Chengqing Zong. 2020. **Knowledge graph enhanced neural machine translation via multi-task learning on sub-entity granularity**. In _Proceedings of the 28th International Conference on Computational Linguistics (COLING 2020)_, pages 4495–4505, Barcelona, Spain (Online). International Committee on Computational Linguistics.
@@ -94,10 +108,8 @@ Qian Wang, Yuchen Liu, Cong Ma, Yu Lu, Yining Wang, Long Zhou, **Yang Zhao**, Ji
 **Yang Zhao**, Jiajun Zhang, Chengqing Zong, Zhongjun He, Hua Wu. 2019. **Addressing the under-translation problem from the entropy perspective**. In _Proceedings of the AAAI Conference on Artificial Intelligence (AAAI 2019)_, 33(01), 451-458. https://doi.org/10.1609/aaai.v33i01.3301451
 
 ## **--2018**
-#### Journal
-Jiajun Zhang, **Yang Zhao**, Haoran Li, Chengqing Zong. 2018. **Attention with sparsity regularization for neural machine translation and summarization**. _IEEE/ACM Transactions on Audio, Speech, and Language Processing_, vol. 27, no. 3, pp. 507-518, March 2019, doi: 10.1109/TASLP.2018.2883740.
 
-#### Conference 
+Jiajun Zhang, **Yang Zhao**, Haoran Li, Chengqing Zong. 2018. **Attention with sparsity regularization for neural machine translation and summarization**. _IEEE/ACM Transactions on Audio, Speech, and Language Processing_, vol. 27, no. 3, pp. 507-518, March 2019, doi: 10.1109/TASLP.2018.2883740.
 
 **Yang Zhao**, Jiajun Zhang, Zhongjun He, Chengqing Zong, Hua Wu. 2018. **Addressing troublesome words in neural machine translation**. In _Proceedings of the 2018 Conference on Empirical Methods in Natural Language Processing (EMNLP 2018)_, pages 391–400, Brussels, Belgium. Association for Computational Linguistics.
  
