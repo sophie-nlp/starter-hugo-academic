@@ -67,4 +67,4 @@ highlight_name: true
 
 I am an Associate Professor in National Laboratory of Pattern Recognition (NLPR), Institute of Automation, Chinese Academy of Sciences. I obtained my Ph.D. in from NLPR in 2019. My advisor is Prof. Chengqing Zong.  Prior to that, I got my Bachelor and Master degree in Beijing Jiaotong University.
 
-My research interests include natural language processing, machine translation and knowledge graph. I have published more than 30 papers at top-tier conferences and journals including TASLP, ACL, IJCAI, EMNLP, COLING etc. I also have served as publication co-chairs for COLING-2020 and PC Members for many AI conferences. We win the Best paper ward for CCMT 2023.
+My research interests include natural language processing, machine translation and large langguage models. I have published more than 50 papers at top-tier conferences and journals including IEEE TPAMI, TASLP, ACL, IJCAI, EMNLP, COLING etc. I also have served as publication co-chairs for COLING-2020 and PC Members for many AI conferences. We win the best paper ward for CCMT 2023.
